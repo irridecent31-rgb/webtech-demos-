@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(27, 26, 26);
+    color: rgb(253, 252, 252);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+
+}
+
+header, main {
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(3, 84, 23);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+    
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+
+}
+
+
